@@ -8,3 +8,11 @@ Camera and player coded
 April 22
 
 Enemy coded but doesn't follow player yet
+
+April 26
+
+Enemy now follows player
+
+April 27
+
+Powerup now functions and is indicated for 7 seconds before disappearing
