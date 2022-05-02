@@ -16,3 +16,7 @@ Enemy now follows player
 April 27
 
 Powerup now functions and is indicated for 7 seconds before disappearing
+
+May 2
+
+Waves now spawn and power up indicator is shown
