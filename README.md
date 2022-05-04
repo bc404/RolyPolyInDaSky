@@ -20,3 +20,7 @@ Powerup now functions and is indicated for 7 seconds before disappearing
 May 2
 
 Waves now spawn and power up indicator is shown
+
+May 4 
+
+Enemies are destroyed and new onese spawn in
