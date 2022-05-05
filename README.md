@@ -24,3 +24,9 @@ Waves now spawn and power up indicator is shown
 May 4 
 
 Enemies are destroyed and new onese spawn in
+
+May 5
+
+Powerups spawn in each wave along with an increasing amount of enemies
+
+Game is complete
